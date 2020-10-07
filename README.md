@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 FUTURE WORKS IN SQL/PYTHON INCOMING...!
 
 - 🔭 I’m currently working on ... getting my degree of MS Business Analytics (and getting hired)!
 - 🌱 I’m currently learning ... Python/SQL/explorative data analysis/modeling & algorithm/...
